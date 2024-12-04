@@ -30,7 +30,7 @@ const FeladatLista = () => {
 
   return (
     <div className='bg-pink-200 border-2 border-black'>
-      <h1 className='text-3xl underline text-center m-8'>Adj hozzá valamit!</h1>
+      <h1 className='text-3xl underline text-center m-8'>Adj hozzá feladatot!</h1>
       <input
       className='bg-white-500 hover:bg-700 text-black font-bold py-2 px-4 rounded m-8 text-center '
         type="text"
